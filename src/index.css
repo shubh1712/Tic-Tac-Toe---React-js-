@@ -1,0 +1,22 @@
+.icon {
+    color: yellow ;
+    font-size: 45px;
+}
+
+.cont1{
+    background-color: #051428;
+}
+.grid { 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-gap: 15px;
+}
+
+
+.box{
+    width: auto;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
